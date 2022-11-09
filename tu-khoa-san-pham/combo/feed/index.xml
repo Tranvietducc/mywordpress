@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Combo &#8211; My wordpress</title>
+	<atom:link href="http://localhost/Myproject/wordpress/tu-khoa-san-pham/combo/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tranvietducc.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Wed, 26 Oct 2022 04:11:41 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>Combo Sandwich</title>
+		<link>https://tranvietducc.github.io/mywordpress/san-pham/combo-sandwich/</link>
+					<comments>https://tranvietducc.github.io/mywordpress/san-pham/combo-sandwich/#respond</comments>
+		
+		<dc:creator><![CDATA[tranvietduc]]></dc:creator>
+		<pubDate>Wed, 26 Oct 2022 04:11:40 +0000</pubDate>
+				<guid isPermaLink="false">https://tranvietducc.github.io/mywordpress/?post_type=product&#038;p=105</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://tranvietducc.github.io/mywordpress/san-pham/combo-sandwich/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Combo Hamburgers, pepsi</title>
+		<link>https://tranvietducc.github.io/mywordpress/san-pham/combo-hamburgers-pepsi/</link>
+					<comments>https://tranvietducc.github.io/mywordpress/san-pham/combo-hamburgers-pepsi/#respond</comments>
+		
+		<dc:creator><![CDATA[tranvietduc]]></dc:creator>
+		<pubDate>Wed, 26 Oct 2022 01:50:39 +0000</pubDate>
+				<guid isPermaLink="false">https://tranvietducc.github.io/mywordpress/?post_type=product&#038;p=55</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://tranvietducc.github.io/mywordpress/san-pham/combo-hamburgers-pepsi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Combo Papzi</title>
+		<link>https://tranvietducc.github.io/mywordpress/san-pham/combo-papzi/</link>
+					<comments>https://tranvietducc.github.io/mywordpress/san-pham/combo-papzi/#respond</comments>
+		
+		<dc:creator><![CDATA[tranvietduc]]></dc:creator>
+		<pubDate>Fri, 21 Oct 2022 03:02:57 +0000</pubDate>
+				<guid isPermaLink="false">https://tranvietducc.github.io/mywordpress/?post_type=product&#038;p=51</guid>
+
+					<description><![CDATA[<div class="description">
+
+Dressed with leaf lettuce and tomatoes on a toasted croissant.
+
+</div>
+<form class="cart" enctype="multipart/form-data" method="post">
+<div class="quantity-button">
+<div class="quantity"></div>
+</div>
+</form>]]></description>
+										<content:encoded><![CDATA[<div class="description">
+
+Dressed with leaf lettuce and tomatoes on a toasted croissant.
+
+</div>
+<form class="cart" enctype="multipart/form-data" method="post">
+<div class="quantity-button">
+<div class="quantity"></div>
+</div>
+</form>]]></content:encoded>
+					
+					<wfw:commentRss>https://tranvietducc.github.io/mywordpress/san-pham/combo-papzi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

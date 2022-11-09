@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Sản phẩm &#8211; My wordpress</title>
+	<atom:link href="http://localhost/Myproject/wordpress/cua-hang/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tranvietducc.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Thu, 27 Oct 2022 09:44:48 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>Pho mai que</title>
+		<link>https://tranvietducc.github.io/mywordpress/san-pham/pho-mai-que/</link>
+					<comments>https://tranvietducc.github.io/mywordpress/san-pham/pho-mai-que/#respond</comments>
+		
+		<dc:creator><![CDATA[tranvietduc]]></dc:creator>
+		<pubDate>Thu, 27 Oct 2022 09:44:48 +0000</pubDate>
+				<guid isPermaLink="false">https://tranvietducc.github.io/mywordpress/?post_type=product&#038;p=107</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://tranvietducc.github.io/mywordpress/san-pham/pho-mai-que/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Combo Sandwich</title>
+		<link>https://tranvietducc.github.io/mywordpress/san-pham/combo-sandwich/</link>
+					<comments>https://tranvietducc.github.io/mywordpress/san-pham/combo-sandwich/#respond</comments>
+		
+		<dc:creator><![CDATA[tranvietduc]]></dc:creator>
+		<pubDate>Wed, 26 Oct 2022 04:11:40 +0000</pubDate>
+				<guid isPermaLink="false">https://tranvietducc.github.io/mywordpress/?post_type=product&#038;p=105</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://tranvietducc.github.io/mywordpress/san-pham/combo-sandwich/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sandwich cá ngừ phô mai</title>
+		<link>https://tranvietducc.github.io/mywordpress/san-pham/sandwich-ca-ngu-pho-mai/</link>
+					<comments>https://tranvietducc.github.io/mywordpress/san-pham/sandwich-ca-ngu-pho-mai/#respond</comments>
+		
+		<dc:creator><![CDATA[tranvietduc]]></dc:creator>
+		<pubDate>Wed, 26 Oct 2022 04:06:38 +0000</pubDate>
+				<guid isPermaLink="false">https://tranvietducc.github.io/mywordpress/?post_type=product&#038;p=103</guid>
+
+					<description><![CDATA[The delicious and nutritious tuna cheese sandwich has a crispy brown bread layer, a filling with tuna sauce and salty salty cheese that is greasy but not boring thanks to the vegetables in the sauce as well as the tomato served. , making the dish more perfect. Just a few simple steps and you're done, and it doesn't take too long to have a nutritious breakfast dish for the morning.]]></description>
+										<content:encoded><![CDATA[The delicious and nutritious tuna cheese sandwich has a crispy brown bread layer, a filling with tuna sauce and salty salty cheese that is greasy but not boring thanks to the vegetables in the sauce as well as the tomato served. , making the dish more perfect. Just a few simple steps and you're done, and it doesn't take too long to have a nutritious breakfast dish for the morning.]]></content:encoded>
+					
+					<wfw:commentRss>https://tranvietducc.github.io/mywordpress/san-pham/sandwich-ca-ngu-pho-mai/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sandwich nướng tôm</title>
+		<link>https://tranvietducc.github.io/mywordpress/san-pham/sandwich-nuong-tom/</link>
+					<comments>https://tranvietducc.github.io/mywordpress/san-pham/sandwich-nuong-tom/#respond</comments>
+		
+		<dc:creator><![CDATA[tranvietduc]]></dc:creator>
+		<pubDate>Wed, 26 Oct 2022 04:01:39 +0000</pubDate>
+				<guid isPermaLink="false">https://tranvietducc.github.io/mywordpress/?post_type=product&#038;p=100</guid>
+
+					<description><![CDATA[This sandwich is sweet from shrimp combined with other ingredients to create a delicious breakfast for your breakfast.]]></description>
+										<content:encoded><![CDATA[This sandwich is sweet from shrimp combined with other ingredients to create a delicious breakfast for your breakfast.]]></content:encoded>
+					
+					<wfw:commentRss>https://tranvietducc.github.io/mywordpress/san-pham/sandwich-nuong-tom/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sandwich Trứng</title>
+		<link>https://tranvietducc.github.io/mywordpress/san-pham/sandwich-trung/</link>
+					<comments>https://tranvietducc.github.io/mywordpress/san-pham/sandwich-trung/#respond</comments>
+		
+		<dc:creator><![CDATA[tranvietduc]]></dc:creator>
+		<pubDate>Wed, 26 Oct 2022 03:56:48 +0000</pubDate>
+				<guid isPermaLink="false">https://tranvietducc.github.io/mywordpress/?post_type=product&#038;p=98</guid>
+
+					<description><![CDATA[Egg sandwich Egg Drop is a sandwich originating from Korea that you can refer to to make a simple breakfast at home. You just need to prepare the ingredients including whole sandwich, eggs, shrimp or bacon, cheese slices, unsalted butter, mayonnaise, condensed milk, chili sauce, salad greens.]]></description>
+										<content:encoded><![CDATA[Egg sandwich Egg Drop is a sandwich originating from Korea that you can refer to to make a simple breakfast at home. You just need to prepare the ingredients including whole sandwich, eggs, shrimp or bacon, cheese slices, unsalted butter, mayonnaise, condensed milk, chili sauce, salad greens.]]></content:encoded>
+					
+					<wfw:commentRss>https://tranvietducc.github.io/mywordpress/san-pham/sandwich-trung/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sandwich Cá Ngừ</title>
+		<link>https://tranvietducc.github.io/mywordpress/san-pham/sandwich-ca-ngu/</link>
+					<comments>https://tranvietducc.github.io/mywordpress/san-pham/sandwich-ca-ngu/#respond</comments>
+		
+		<dc:creator><![CDATA[tranvietduc]]></dc:creator>
+		<pubDate>Wed, 26 Oct 2022 03:46:19 +0000</pubDate>
+				<guid isPermaLink="false">https://tranvietducc.github.io/mywordpress/?post_type=product&#038;p=96</guid>
+
+					<description><![CDATA[Tuna sandwich is a perfect, nutritious choice for you in the morning. With very simple ingredients including sandwich bread, canned tuna, onion, cucumber, lettuce, mayonnaise, you just need to cut the ingredients and put them in the middle of the cake to get one. Delicious sandwiches for breakfast.]]></description>
+										<content:encoded><![CDATA[Tuna sandwich is a perfect, nutritious choice for you in the morning. With very simple ingredients including sandwich bread, canned tuna, onion, cucumber, lettuce, mayonnaise, you just need to cut the ingredients and put them in the middle of the cake to get one. Delicious sandwiches for breakfast.]]></content:encoded>
+					
+					<wfw:commentRss>https://tranvietducc.github.io/mywordpress/san-pham/sandwich-ca-ngu/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Nước suối</title>
+		<link>https://tranvietducc.github.io/mywordpress/san-pham/nuoc-suoi/</link>
+					<comments>https://tranvietducc.github.io/mywordpress/san-pham/nuoc-suoi/#respond</comments>
+		
+		<dc:creator><![CDATA[tranvietduc]]></dc:creator>
+		<pubDate>Wed, 26 Oct 2022 03:40:51 +0000</pubDate>
+				<guid isPermaLink="false">https://tranvietducc.github.io/mywordpress/?post_type=product&#038;p=94</guid>
+
+					<description><![CDATA[Water is an indispensable ingredient for life, has a particularly important role to help the body's activities take place normally. In addition to filtered water, you can use mineral water products, handy bottled mineral water with you to provide water for the body anytime, anywhere.]]></description>
+										<content:encoded><![CDATA[Water is an indispensable ingredient for life, has a particularly important role to help the body's activities take place normally. In addition to filtered water, you can use mineral water products, handy bottled mineral water with you to provide water for the body anytime, anywhere.]]></content:encoded>
+					
+					<wfw:commentRss>https://tranvietducc.github.io/mywordpress/san-pham/nuoc-suoi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Soda Chanh</title>
+		<link>https://tranvietducc.github.io/mywordpress/san-pham/soda-chanh/</link>
+					<comments>https://tranvietducc.github.io/mywordpress/san-pham/soda-chanh/#respond</comments>
+		
+		<dc:creator><![CDATA[tranvietduc]]></dc:creator>
+		<pubDate>Wed, 26 Oct 2022 03:34:41 +0000</pubDate>
+				<guid isPermaLink="false">https://tranvietducc.github.io/mywordpress/?post_type=product&#038;p=92</guid>
+
+					<description><![CDATA[On hot summer days, there is nothing better than enjoying a cool glass of lemon soda, today I will share with you how to make this summer drink.]]></description>
+										<content:encoded><![CDATA[On hot summer days, there is nothing better than enjoying a cool glass of lemon soda, today I will share with you how to make this summer drink.]]></content:encoded>
+					
+					<wfw:commentRss>https://tranvietducc.github.io/mywordpress/san-pham/soda-chanh/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pepsi</title>
+		<link>https://tranvietducc.github.io/mywordpress/san-pham/pepsi/</link>
+					<comments>https://tranvietducc.github.io/mywordpress/san-pham/pepsi/#respond</comments>
+		
+		<dc:creator><![CDATA[tranvietduc]]></dc:creator>
+		<pubDate>Wed, 26 Oct 2022 03:23:53 +0000</pubDate>
+				<guid isPermaLink="false">https://tranvietducc.github.io/mywordpress/?post_type=product&#038;p=90</guid>
+
+					<description><![CDATA[Pepsi is a carbonated drink, cool and refreshing]]></description>
+										<content:encoded><![CDATA[Pepsi is a carbonated drink, cool and refreshing]]></content:encoded>
+					
+					<wfw:commentRss>https://tranvietducc.github.io/mywordpress/san-pham/pepsi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Soda Dâu</title>
+		<link>https://tranvietducc.github.io/mywordpress/san-pham/soda-dau/</link>
+					<comments>https://tranvietducc.github.io/mywordpress/san-pham/soda-dau/#respond</comments>
+		
+		<dc:creator><![CDATA[tranvietduc]]></dc:creator>
+		<pubDate>Wed, 26 Oct 2022 03:18:24 +0000</pubDate>
+				<guid isPermaLink="false">https://tranvietducc.github.io/mywordpress/?post_type=product&#038;p=86</guid>
+
+					<description><![CDATA[Cool, sweet strawberry soda with fresh, eye-catching colors will be the ideal cooling drink on hot days.]]></description>
+										<content:encoded><![CDATA[Cool, sweet strawberry soda with fresh, eye-catching colors will be the ideal cooling drink on hot days.]]></content:encoded>
+					
+					<wfw:commentRss>https://tranvietducc.github.io/mywordpress/san-pham/soda-dau/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

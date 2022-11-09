@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Pho mai &#8211; My wordpress</title>
+	<atom:link href="http://localhost/Myproject/wordpress/tu-khoa-san-pham/pho-mai/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tranvietducc.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Thu, 27 Oct 2022 09:44:48 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>Pho mai que</title>
+		<link>https://tranvietducc.github.io/mywordpress/san-pham/pho-mai-que/</link>
+					<comments>https://tranvietducc.github.io/mywordpress/san-pham/pho-mai-que/#respond</comments>
+		
+		<dc:creator><![CDATA[tranvietduc]]></dc:creator>
+		<pubDate>Thu, 27 Oct 2022 09:44:48 +0000</pubDate>
+				<guid isPermaLink="false">https://tranvietducc.github.io/mywordpress/?post_type=product&#038;p=107</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://tranvietducc.github.io/mywordpress/san-pham/pho-mai-que/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

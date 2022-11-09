@@ -9,181 +9,32 @@
 
 <channel>
 	<title>My wordpress</title>
-	<atom:link href="https://tranvietducc.github.io/mywordpress/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/Myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tranvietducc.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Fri, 19 Aug 2022 03:55:11 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 17 Oct 2022 07:49:50 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.1</generator>
 	<item>
-		<title>CÁC HỆ SINH THÁI TỰ NHIÊN</title>
-		<link>https://tranvietducc.github.io/mywordpress/2022/08/19/cac-he%cc%a3-sinh-thai-tu%cc%a3-nhien/</link>
-					<comments>https://tranvietducc.github.io/mywordpress/2022/08/19/cac-he%cc%a3-sinh-thai-tu%cc%a3-nhien/#respond</comments>
-		
-		<dc:creator><![CDATA[tranvietduc]]></dc:creator>
-		<pubDate>Fri, 19 Aug 2022 03:55:11 +0000</pubDate>
-				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">https://tranvietducc.github.io/mywordpress/?p=6</guid>
-
-					<description><![CDATA[Hệ sinh thái là gì? Hệ sinh thái có vai trò vô cùng quan trọng trong đời sống của con người cụ thể như việc &#8230; ]]></description>
-										<content:encoded><![CDATA[
-<ol class="has-x-large-font-size"><li><strong>Hệ sinh thái là gì?</strong></li></ol>
-
-
-
-<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:54% auto"><figure class="wp-block-media-text__media"><img src="https://tranvietducc.github.io/mywordpress/wp-content/uploads/2022/08/photo-1545122988-927ccd8c48fa-1.webp" alt="" class="wp-image-13 size-full"/></figure><div class="wp-block-media-text__content">
-<p class="has-small-font-size">Hệ sinh thái có vai trò vô cùng quan trọng trong đời sống của con người cụ thể như việc giữ gìn tài nguyên đất, ngăn chặn sạt lở, bão lụt.</p>
-
-
-
-<p class="has-small-font-size">Hệ sinh thái bao gồm quần xã sinh vật và môi trường sống của quần xã (sinh cảnh), trong hệ sinh thái các sinh vật luôn luôn tác động lẫn nhau và tác động qua lại với các nhân tố vô sinh của môi trường trường tạo thành một hệ thống hoàn chỉnh và tương đối ổn định.</p>
-</div></div>
-
-
-
-<p class="has-x-large-font-size"><strong>2. Các loại hệ sinh thái</strong></p>
-
-
-
-<ul><li>Sinh thái thủy sinh</li><li>Sinh thái trên cạn</li></ul>
-
-
-
-<p>  + Có 2 loại hệ sinh thái</p>
-
-
-
-<h3><strong>Hệ sinh thái trên cạn</strong></h3>
-
-
-
-<p>Hệ sinh thái trên cạn là hệ sinh thái độc quyền trên cạn.&nbsp;Có nhiều kiểu hệ sinh thái trên cạn phân bố xung quanh các đới địa chất khác nhau.&nbsp;Chúng như sau:</p>
-
-
-
-<ol><li>Hệ sinh thái rừng</li><li>Hệ sinh thái đồng cỏ</li><li>Hệ sinh thái Tundra</li><li>Hệ sinh thái sa mạc</li></ol>
-
-
-
-<h4><strong>Hệ sinh thái rừng</strong></h4>
-
-
-
-<p>Hệ sinh thái rừng bao gồm một số loài thực vật, động vật và vi sinh vật sống phối hợp với các yếu tố phi sinh học của môi trường.&nbsp;Rừng giúp duy trì nhiệt độ của trái đất và là bể chứa cacbon chính.</p>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="693" src="https://tranvietducc.github.io/mywordpress/wp-content/uploads/2022/08/photo-1638774260965-d1cae9ca24b6-1024x693.webp" alt="" class="wp-image-10" srcset="https://tranvietducc.github.io/mywordpress/wp-content/uploads/2022/08/photo-1638774260965-d1cae9ca24b6-1024x693.webp 1024w, https://tranvietducc.github.io/mywordpress/wp-content/uploads/2022/08/photo-1638774260965-d1cae9ca24b6-300x203.webp 300w, https://tranvietducc.github.io/mywordpress/wp-content/uploads/2022/08/photo-1638774260965-d1cae9ca24b6-768x520.webp 768w, https://tranvietducc.github.io/mywordpress/wp-content/uploads/2022/08/photo-1638774260965-d1cae9ca24b6.webp 1158w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<h4><strong>Hệ sinh thái đồng cỏ</strong></h4>
-
-
-
-<p>Trong hệ sinh thái đồng cỏ, thảm thực vật chủ yếu là cỏ và thảo mộc.&nbsp;Đồng cỏ ôn đới, đồng cỏ xavan là một số ví dụ về hệ sinh thái đồng cỏ.</p>
-
-
-
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://tranvietducc.github.io/mywordpress/wp-content/uploads/2022/08/photo-1620031618014-31ef64d42589.webp" alt="" class="wp-image-11" width="649" height="432" srcset="https://tranvietducc.github.io/mywordpress/wp-content/uploads/2022/08/photo-1620031618014-31ef64d42589.webp 500w, https://tranvietducc.github.io/mywordpress/wp-content/uploads/2022/08/photo-1620031618014-31ef64d42589-300x200.webp 300w" sizes="(max-width: 649px) 100vw, 649px" /></figure>
-
-
-
-<h4><strong>Hệ sinh thái Tundra</strong></h4>
-
-
-
-<p>Các hệ sinh thái ở vùng cao nguyên không có cây cối và được tìm thấy ở những vùng có khí hậu lạnh hoặc nơi lượng mưa khan hiếm.&nbsp;Đây là những nơi được bao phủ bởi tuyết trong hầu hết thời gian trong năm.&nbsp;Hệ sinh thái ở Bắc Cực hoặc các đỉnh núi thuộc loại lãnh nguyên.</p>
-
-
-
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://tranvietducc.github.io/mywordpress/wp-content/uploads/2022/08/photo-1660077040866-5fa2185877bb.webp" alt="" class="wp-image-14" width="648" height="432" srcset="https://tranvietducc.github.io/mywordpress/wp-content/uploads/2022/08/photo-1660077040866-5fa2185877bb.webp 500w, https://tranvietducc.github.io/mywordpress/wp-content/uploads/2022/08/photo-1660077040866-5fa2185877bb-300x200.webp 300w" sizes="(max-width: 648px) 100vw, 648px" /></figure>
-
-
-
-<h4><strong>Hệ sinh thái sa mạc</strong></h4>
-
-
-
-<p>Các sa mạc được tìm thấy trên khắp thế giới.&nbsp;Đây là những vùng có lượng mưa rất ít.&nbsp;Ngày nóng và đêm lạnh.</p>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="683" src="https://tranvietducc.github.io/mywordpress/wp-content/uploads/2022/08/photo-1499988921418-b7df40ff03f9-1024x683.webp" alt="" class="wp-image-15" srcset="https://tranvietducc.github.io/mywordpress/wp-content/uploads/2022/08/photo-1499988921418-b7df40ff03f9-1024x683.webp 1024w, https://tranvietducc.github.io/mywordpress/wp-content/uploads/2022/08/photo-1499988921418-b7df40ff03f9-300x200.webp 300w, https://tranvietducc.github.io/mywordpress/wp-content/uploads/2022/08/photo-1499988921418-b7df40ff03f9-768x512.webp 768w, https://tranvietducc.github.io/mywordpress/wp-content/uploads/2022/08/photo-1499988921418-b7df40ff03f9.webp 1170w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<h3><strong>Hệ sinh thái thủy sinh</strong></h3>
-
-
-
-<p><strong>Hệ sinh thái dưới nước</strong>&nbsp;là hệ sinh thái tồn tại trong một vùng nước.&nbsp;Chúng có thể được chia thành hai loại, cụ thể là:</p>
-
-
-
-<ol><li>Hệ sinh thái nước ngọt</li><li>Hệ sinh thái biển</li></ol>
-
-
-
-<h4><strong>Hệ sinh thái nước ngọt</strong></h4>
-
-
-
-<p>Hệ sinh thái nước ngọt là hệ sinh thái dưới nước bao gồm hồ, ao, sông, suối và đất ngập nước.&nbsp;Chúng không có hàm lượng muối trái ngược với hệ sinh thái biển.</p>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="768" src="https://tranvietducc.github.io/mywordpress/wp-content/uploads/2022/08/photo-1516132006923-6cf348e5dee2-1024x768.webp" alt="" class="wp-image-17" srcset="https://tranvietducc.github.io/mywordpress/wp-content/uploads/2022/08/photo-1516132006923-6cf348e5dee2-1024x768.webp 1024w, https://tranvietducc.github.io/mywordpress/wp-content/uploads/2022/08/photo-1516132006923-6cf348e5dee2-300x225.webp 300w, https://tranvietducc.github.io/mywordpress/wp-content/uploads/2022/08/photo-1516132006923-6cf348e5dee2-768x576.webp 768w, https://tranvietducc.github.io/mywordpress/wp-content/uploads/2022/08/photo-1516132006923-6cf348e5dee2.webp 1074w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<h4><strong>Hệ sinh thái biển</strong></h4>
-
-
-
-<p>Hệ sinh thái biển bao gồm biển và đại dương.&nbsp;Chúng có hàm lượng muối lớn hơn và đa dạng sinh học hơn so với hệ sinh thái nước ngọt.</p>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="683" src="https://tranvietducc.github.io/mywordpress/wp-content/uploads/2022/08/photo-1596369315760-4fd304cf035f-1024x683.webp" alt="" class="wp-image-18" srcset="https://tranvietducc.github.io/mywordpress/wp-content/uploads/2022/08/photo-1596369315760-4fd304cf035f-1024x683.webp 1024w, https://tranvietducc.github.io/mywordpress/wp-content/uploads/2022/08/photo-1596369315760-4fd304cf035f-300x200.webp 300w, https://tranvietducc.github.io/mywordpress/wp-content/uploads/2022/08/photo-1596369315760-4fd304cf035f-768x512.webp 768w, https://tranvietducc.github.io/mywordpress/wp-content/uploads/2022/08/photo-1596369315760-4fd304cf035f.webp 1170w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p><strong>+ Điều làm cho 1 hệ sinh thái tốt:</strong></p>
-
-
-
-<p>Một hệ sinh thái tốt bao gồm các loài thực vật và động vật bản địa tương tác với nhau và với môi trường.&nbsp;Một hệ sinh thái lành mạnh có một nguồn năng lượng và các chất phân hủy sẽ phân hủy thực vật và động vật chết, trả lại chất dinh dưỡng cần thiết cho đất.</p>
-
-
-<p><iframe loading="lazy" class="giphy-embed" src="https://giphy.com/embed/l1KVcrdl7rJpFnY2s" width="480" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
-<p><a href="https://giphy.com/gifs/world-earth-l1KVcrdl7rJpFnY2s">via GIPHY</a></p>]]></content:encoded>
-					
-					<wfw:commentRss>https://tranvietducc.github.io/mywordpress/2022/08/19/cac-he%cc%a3-sinh-thai-tu%cc%a3-nhien/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
 		<title>Chào tất cả mọi người!</title>
-		<link>https://tranvietducc.github.io/mywordpress/2022/08/19/chao-moi-nguoi/</link>
-					<comments>https://tranvietducc.github.io/mywordpress/2022/08/19/chao-moi-nguoi/#comments</comments>
+		<link>https://tranvietducc.github.io/mywordpress/2022/10/17/chao-moi-nguoi/</link>
+					<comments>https://tranvietducc.github.io/mywordpress/2022/10/17/chao-moi-nguoi/#comments</comments>
 		
 		<dc:creator><![CDATA[tranvietduc]]></dc:creator>
-		<pubDate>Fri, 19 Aug 2022 01:25:39 +0000</pubDate>
+		<pubDate>Mon, 17 Oct 2022 07:49:50 +0000</pubDate>
 				<category><![CDATA[Chưa phân loại]]></category>
 		<guid isPermaLink="false">https://tranvietducc.github.io/mywordpress/?p=1</guid>
 
-					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của &#8230; ]]></description>
+					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
 										<content:encoded><![CDATA[
 <p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://tranvietducc.github.io/mywordpress/2022/08/19/chao-moi-nguoi/feed/</wfw:commentRss>
+					<wfw:commentRss>https://tranvietducc.github.io/mywordpress/2022/10/17/chao-moi-nguoi/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

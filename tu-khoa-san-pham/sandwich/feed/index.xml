@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Sandwich &#8211; My wordpress</title>
+	<atom:link href="http://localhost/Myproject/wordpress/tu-khoa-san-pham/sandwich/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tranvietducc.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Wed, 26 Oct 2022 04:06:39 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>Sandwich cá ngừ phô mai</title>
+		<link>https://tranvietducc.github.io/mywordpress/san-pham/sandwich-ca-ngu-pho-mai/</link>
+					<comments>https://tranvietducc.github.io/mywordpress/san-pham/sandwich-ca-ngu-pho-mai/#respond</comments>
+		
+		<dc:creator><![CDATA[tranvietduc]]></dc:creator>
+		<pubDate>Wed, 26 Oct 2022 04:06:38 +0000</pubDate>
+				<guid isPermaLink="false">https://tranvietducc.github.io/mywordpress/?post_type=product&#038;p=103</guid>
+
+					<description><![CDATA[The delicious and nutritious tuna cheese sandwich has a crispy brown bread layer, a filling with tuna sauce and salty salty cheese that is greasy but not boring thanks to the vegetables in the sauce as well as the tomato served. , making the dish more perfect. Just a few simple steps and you're done, and it doesn't take too long to have a nutritious breakfast dish for the morning.]]></description>
+										<content:encoded><![CDATA[The delicious and nutritious tuna cheese sandwich has a crispy brown bread layer, a filling with tuna sauce and salty salty cheese that is greasy but not boring thanks to the vegetables in the sauce as well as the tomato served. , making the dish more perfect. Just a few simple steps and you're done, and it doesn't take too long to have a nutritious breakfast dish for the morning.]]></content:encoded>
+					
+					<wfw:commentRss>https://tranvietducc.github.io/mywordpress/san-pham/sandwich-ca-ngu-pho-mai/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sandwich nướng tôm</title>
+		<link>https://tranvietducc.github.io/mywordpress/san-pham/sandwich-nuong-tom/</link>
+					<comments>https://tranvietducc.github.io/mywordpress/san-pham/sandwich-nuong-tom/#respond</comments>
+		
+		<dc:creator><![CDATA[tranvietduc]]></dc:creator>
+		<pubDate>Wed, 26 Oct 2022 04:01:39 +0000</pubDate>
+				<guid isPermaLink="false">https://tranvietducc.github.io/mywordpress/?post_type=product&#038;p=100</guid>
+
+					<description><![CDATA[This sandwich is sweet from shrimp combined with other ingredients to create a delicious breakfast for your breakfast.]]></description>
+										<content:encoded><![CDATA[This sandwich is sweet from shrimp combined with other ingredients to create a delicious breakfast for your breakfast.]]></content:encoded>
+					
+					<wfw:commentRss>https://tranvietducc.github.io/mywordpress/san-pham/sandwich-nuong-tom/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sandwich Trứng</title>
+		<link>https://tranvietducc.github.io/mywordpress/san-pham/sandwich-trung/</link>
+					<comments>https://tranvietducc.github.io/mywordpress/san-pham/sandwich-trung/#respond</comments>
+		
+		<dc:creator><![CDATA[tranvietduc]]></dc:creator>
+		<pubDate>Wed, 26 Oct 2022 03:56:48 +0000</pubDate>
+				<guid isPermaLink="false">https://tranvietducc.github.io/mywordpress/?post_type=product&#038;p=98</guid>
+
+					<description><![CDATA[Egg sandwich Egg Drop is a sandwich originating from Korea that you can refer to to make a simple breakfast at home. You just need to prepare the ingredients including whole sandwich, eggs, shrimp or bacon, cheese slices, unsalted butter, mayonnaise, condensed milk, chili sauce, salad greens.]]></description>
+										<content:encoded><![CDATA[Egg sandwich Egg Drop is a sandwich originating from Korea that you can refer to to make a simple breakfast at home. You just need to prepare the ingredients including whole sandwich, eggs, shrimp or bacon, cheese slices, unsalted butter, mayonnaise, condensed milk, chili sauce, salad greens.]]></content:encoded>
+					
+					<wfw:commentRss>https://tranvietducc.github.io/mywordpress/san-pham/sandwich-trung/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sandwich Cá Ngừ</title>
+		<link>https://tranvietducc.github.io/mywordpress/san-pham/sandwich-ca-ngu/</link>
+					<comments>https://tranvietducc.github.io/mywordpress/san-pham/sandwich-ca-ngu/#respond</comments>
+		
+		<dc:creator><![CDATA[tranvietduc]]></dc:creator>
+		<pubDate>Wed, 26 Oct 2022 03:46:19 +0000</pubDate>
+				<guid isPermaLink="false">https://tranvietducc.github.io/mywordpress/?post_type=product&#038;p=96</guid>
+
+					<description><![CDATA[Tuna sandwich is a perfect, nutritious choice for you in the morning. With very simple ingredients including sandwich bread, canned tuna, onion, cucumber, lettuce, mayonnaise, you just need to cut the ingredients and put them in the middle of the cake to get one. Delicious sandwiches for breakfast.]]></description>
+										<content:encoded><![CDATA[Tuna sandwich is a perfect, nutritious choice for you in the morning. With very simple ingredients including sandwich bread, canned tuna, onion, cucumber, lettuce, mayonnaise, you just need to cut the ingredients and put them in the middle of the cake to get one. Delicious sandwiches for breakfast.]]></content:encoded>
+					
+					<wfw:commentRss>https://tranvietducc.github.io/mywordpress/san-pham/sandwich-ca-ngu/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
